@@ -8,7 +8,7 @@ if (session_status() == PHP_SESSION_NONE) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Digital Bus Pass (Bus Buddy)</title>
+    <title>Digital Bus Pass System (Bus Buddy) </title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         .header-title {
